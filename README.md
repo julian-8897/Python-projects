@@ -1,1 +1,2 @@
-# Python-projects
+# Python projects
+Miscellaneous projects on python
