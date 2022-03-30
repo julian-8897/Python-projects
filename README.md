@@ -1,6 +1,6 @@
 ## **Python Projects**
 Personal projects written in Python.
-1. Data science/ML projects are found within the 'data science' folder.
+1. Data science projects are found within the 'data science' folder.
     - **Current Projects**:
         - *Red wine quality prediction*
         - *US house pricing prediction*
