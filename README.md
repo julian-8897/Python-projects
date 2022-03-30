@@ -5,6 +5,7 @@ Personal projects written in Python.
         - *Red wine quality prediction*
         - *US house pricing prediction*
         - *A Content-based Spotify Recommender System*
+        - *Sentiment Analysis*
 
 2. A simple implementation of a discord bot can be found within the 'discord bot' folder.
 
