@@ -11,6 +11,7 @@ Personal projects written in Python.
      - _Sentiment Analysis (Based on Amazon Reviews)_
      - _Classification of Benign and Malignant Breast Cancer Cells_
      - _Data Analysis of TED Talks dataset_
+     - _Google Search Trends Analysis_
 
 2. A simple implementation of a discord bot can be found within the 'discord bot' folder.
 
