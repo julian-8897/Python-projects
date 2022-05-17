@@ -1,0 +1,15 @@
+{"intents": [
+    {"tag": "greetings", 
+        "patterns": ["hi", "hello", "hey", "good day", "hello there!", "what's up?", "how's it going"],
+        "responses": ["Hi!", "Hello there!", "At your service!", "How can I help you?" ]
+    },
+    {"tag": "name", 
+        "patterns": ["what is your name", "tell me your name", "what should I call you"],
+        "responses": ["My name is JARVIS!", "You can call me JARVIS!", "I'm JARVIS, at your service!"]
+    },
+    {"tag": "goodbye", 
+        "patterns": ["goodbye", "have a good day", "bye", "see you later", "ciao", "bye for now"],
+        "responses": ["Alright, see you later sir!", "Have a good day sir!", "Bye for now!", "Bye-bye!"]
+    }
+
+]}

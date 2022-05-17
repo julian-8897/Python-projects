@@ -130,3 +130,6 @@ dmypy.json
 
 # Folders
 pandas/
+
+# Files
+us_house_price.ipynb
