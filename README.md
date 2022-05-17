@@ -14,3 +14,7 @@ Personal projects written in Python.
 2. A simple implementation of a discord bot can be found within the 'discord bot' folder.
 
 3. Misc. projects are found within the 'miscellaneous' folder.
+      
+    - **Current Projects**:
+    - _simple screen recorder_
+    - _inside polygon_
