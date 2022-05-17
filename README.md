@@ -5,8 +5,6 @@ Personal projects written in Python.
 1. Data science projects are found within the 'data science' folder.
 
    - **Current Projects**:
-     - _Red wine quality prediction_
-     - _US house pricing prediction_
      - _A Content-based Spotify Recommender System_
      - _Sentiment Analysis (Based on Amazon Reviews)_
      - _Classification of Benign and Malignant Breast Cancer Cells_
