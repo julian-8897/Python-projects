@@ -16,5 +16,5 @@ Personal projects written in Python.
 3. Misc. projects are found within the 'miscellaneous' folder.
       
     - **Current Projects**:
-    - _simple screen recorder_
-    - _inside polygon_
+      - _simple screen recorder_
+      - _inside polygon_
